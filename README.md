@@ -45,4 +45,4 @@ Industrial, secure, and responsive gate access built for real-world deployments.
 - Admin/gatekeeper real‑time dashboards (WebSocket alerts, two‑column result layout)
 - Media relay server; on‑demand WebRTC streams
 
-— Made with 💙 from Silicon Savannah 💙
+— Made with 💙 from DKUT
